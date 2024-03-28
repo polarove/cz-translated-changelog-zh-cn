@@ -13,17 +13,17 @@
 
 ## 演示
 
-![演示](https://raw.githubusercontent.com/polarove/cz-translated-changelog/master/assets/zh-cn/prompt-demo.gif)
+![演示](https://raw.githubusercontent.com/polarove/cz-translated-changelog-zh-cn/master/assets/prompt-demo.gif)
 
 ## 新增功能
 
 🚀 一个确认提交消息的窗口期
 
-![新功能](https://raw.githubusercontent.com/polarove/cz-translated-changelog/master/assets/zh-cn/confirm-prompt.png)
+![新功能](https://raw.githubusercontent.com/polarove/cz-translated-changelog-zh-cn/master/assets/confirm-prompt.png)
 
 ✨ 在 commit message 中使用 `!` 来标记破坏性更新
 
-![新功能](https://raw.githubusercontent.com/polarove/cz-translated-changelog/master/assets/zh-cn/exclamation-mark.png)
+![新功能](https://raw.githubusercontent.com/polarove/cz-translated-changelog-zh-cn/master/assets/exclamation-mark.png)
 
 ## 立刻上手
 
