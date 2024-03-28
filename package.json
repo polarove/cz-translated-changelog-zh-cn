@@ -18,7 +18,7 @@
   "homepage": "https://github.com/commitizen/cz-conventional-changelog",
   "repository": {
     "type": "git",
-    "url": "https://github.com/polarove/cz-translated-changelog"
+    "url": "https://github.com/polarove/cz-translated-changelog-zh-cn"
   },
   "engineStrict": true,
   "engines": {
