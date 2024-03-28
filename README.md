@@ -13,7 +13,7 @@
 
 ## 演示
 
-![演示](https://raw.githubusercontent.com/polarove/cz-translated-changelog-zh-cn/master/assets/prompt-demo.gif)
+![演示](https://raw.githubusercontent.com/polarove/cz-translated-changelog-zh-cn/master/assets/demo.gif)
 
 ## 新增功能
 
