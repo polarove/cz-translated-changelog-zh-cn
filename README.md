@@ -3,6 +3,10 @@
 > [!TIP]
 > cz-conventional-changelog 的简体中文翻译
 
+> [!TIP]
+> 你也可以看看 [@translated-lint/zh-cn](https://www.npmjs.com/package/@translated-lint/zh-cn)
+> 它可以像 commitlint 那样检查提交消息
+
 [![npm version](https://img.shields.io/npm/v/@cz-translated-changelog/zh-cn.svg?style=flat-square)](https://www.npmjs.com/package/@cz-translated-changelog/zh-cn) [![npm downloads](https://img.shields.io/npm/dm/@cz-translated-changelog/zh-cn.svg?style=flat-square)](http://npm-stat.com/charts.html?package=@cz-translated-changelog/zh-cn&from=2024-03-16)
 
 ## 规范
