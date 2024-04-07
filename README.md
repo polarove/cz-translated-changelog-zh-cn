@@ -7,7 +7,7 @@
 > 你也可以看看 [@translated-lint/zh-cn](https://www.npmjs.com/package/@translated-lint/zh-cn)
 > 它可以像 commitlint 那样检查提交消息
 
-[![npm version](https://img.shields.io/npm/v/@cz-translated-changelog/zh-cn.svg?style=flat-square)](https://www.npmjs.com/package/@cz-translated-changelog/zh-cn) [![npm downloads](https://img.shields.io/npm/dm/@cz-translated-changelog/zh-cn.svg?style=flat-square)](http://npm-stat.com/charts.html?package=@cz-translated-changelog/zh-cn&from=2024-03-16)
+[![npm version][npm-version-src]][npm-package-href][![npm downloads][npm-monthly-downloads-src]][npm-monthly-downloads-href][![License][license-src]][npm-package-href]
 
 ## 规范
 
@@ -88,3 +88,19 @@ commitizen init @cz-translated-changelog/zh-cn --save-dev --save-exact
 ## Commitlint
 
 如果使用[commitlint](https://github.com/conventional-changelog/commitlint) js 库, “maxHeaderWidth”配置属性将默认为“header-max-length”规则的配置，而不是硬编码的值 100。这可以通过在`package.json`中设置“maxHeaderWidth”，或添加 CZ_MAX_HEADER_WIDTH 环境变量。
+
+## License
+
+[MIT License](./LICENSE)
+
+<!-- Badges -->
+
+[npm-package-href]: https://npmjs.com/package/@cz-translated-changelog/zh-cn
+
+[npm-monthly-downloads-src]: https://img.shields.io/npm/dm/@cz-translated-changelog/zh-cn.svg?style=flat-square
+
+[npm-monthly-downloads-href]: http://npm-stat.com/charts.html?package=@cz-translated-changelog/zh-cn&from=2024-03-16
+
+[npm-version-src]: https://img.shields.io/npm/v/@cz-translated-changelog/zh-cn/latest.svg?style=flat-square
+
+[license-src]: https://img.shields.io/npm/l/@cz-translated-changelog/zh-cn.svg?style=flat-square
