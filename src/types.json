@@ -35,8 +35,12 @@
     "description": "性能优化，代码逻辑优化",
     "title": "优化"
   },
+  "dependencies": {
+    "description": "项目依赖调整、升级等",
+    "title": "依赖"
+  },
   "build": {
-    "description": "构建工具或项目依赖调整",
+    "description": "构建工具调整",
     "title": "构建"
   },
   "ci": {
