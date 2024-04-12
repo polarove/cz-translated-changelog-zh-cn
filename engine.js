@@ -45,7 +45,7 @@ module.exports = function (options) {
   var types = options.types;
   var length = longest(Object.keys(types)).length + 1;
   writeFileSync(
-    resolve(__dirname, './src/options.json'),
+    resolve(__dirname, './src/shared-config.json'),
     JSON.stringify(options),
     { encoding: 'utf-8' }
   );

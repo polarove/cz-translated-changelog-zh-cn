@@ -3,6 +3,10 @@
     "description": "功能相关",
     "title": "功能"
   },
+  "css": {
+    "description": "css样式、sass文件等更改",
+    "title": "样式"
+  },
   "fix": {
     "description": "缺陷修复",
     "title": "修复"
