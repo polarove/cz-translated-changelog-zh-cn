@@ -1,6 +1,6 @@
 {
   "name": "@cz-translated-changelog/zh-cn",
-  "version": "0.0.44",
+  "version": "0.0.45",
   "description": "cz-convention-changelog 的简体中文翻译",
   "main": "index.js",
   "keywords": [
