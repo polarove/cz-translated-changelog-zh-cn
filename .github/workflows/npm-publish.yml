@@ -9,21 +9,23 @@ jobs:
   publish-npm:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4
         with:
           node-version: lts/*
           registry-url: https://registry.npmjs.org/
 
-      - run: npm i
+      - run: corepack enable pnpm
+
+      - run: pnpm i && pnpm run build
 
       - run: git config --global user.email "liuqi6602@163.com"
 
       - run: git config --global user.name "polarove/ci-bot"
 
-      - run: npm publish
+      - run: pnpm publish --no-git-checks
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
