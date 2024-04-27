@@ -24,6 +24,11 @@
   "engines": {
     "node": ">= 10"
   },
+  "files": [
+    "./src",
+    "engine.js",
+    "index.js"
+  ],
   "author": "liuq <liuqi6602@163.com>",
   "license": "MIT",
   "dependencies": {
